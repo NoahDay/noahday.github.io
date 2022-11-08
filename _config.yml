@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noah Day / Site Title"
+title                    : "Noah Day"
 title_separator          : "-"
 name                     : &name "Noah Day"
 description              : &description "PhD candidate at the University of Adelaide"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/noahday"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4176-7956"
+  orcid            : "https://orcid.org/0000-0003-4176-7956"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
