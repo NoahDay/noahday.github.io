@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Mathematical Sciences with First Class Honours, University of Adelaide, 2017-2020
+  * Title: [*Stochastic Modelling of Vector-Borne Diseases with Household Structures*](http://noahday.github.io/files/honoursThesis.pdf)
+* Ph.D, School of Mathematical Sciences, University of Adelaide, 2021-
+  * Title: *Modelling the winter Antarctic marginal ice zone*
+  * Supervisors: AProf Luke Bennetts (UoA), Dr Siobhan O'Farrell (CSIRO)
 
 Work experience
 ======
