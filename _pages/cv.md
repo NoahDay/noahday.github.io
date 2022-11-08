@@ -15,7 +15,7 @@ Education
   * Title: [*Stochastic Modelling of Vector-Borne Diseases with Household Structures*](http://noahday.github.io/files/honoursThesis.pdf)
 * PhD, School of Mathematical Sciences, University of Adelaide, 2021-
   * Title: *Modelling the winter Antarctic marginal ice zone*
-  * Supervisors: Associate Professor Luke Bennetts (UoA), Dr Siobhan O'Farrell (CSIRO)
+  * Supervisors: [Associate Professor Luke Bennetts (UoA)](http://luke-bennetts.com), Dr Siobhan O'Farrell (CSIRO)
 
 Work experience
 ======
