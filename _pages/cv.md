@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Mathematical Sciences with First Class Honours, University of Adelaide, 2017-2020
   * Title: [*Stochastic Modelling of Vector-Borne Diseases with Household Structures*](http://noahday.github.io/files/honoursThesis.pdf)
-* Ph.D, School of Mathematical Sciences, University of Adelaide, 2021-
+* PhD, School of Mathematical Sciences, University of Adelaide, 2021-
   * Title: *Modelling the winter Antarctic marginal ice zone*
   * Supervisors: AProf Luke Bennetts (UoA), Dr Siobhan O'Farrell (CSIRO)
 
@@ -28,15 +28,21 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+Grants
+======
+* COSIMA PhD top-up scholarship
+* Adelaide Graduate Centre travel grant
+* DR Stranks Travelling Fellowship 2022
+* Quarterly Journal of Mechanics and Applied Mathematics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * MATLAB
+  * FORTRAN
+  * Python
+  * R
 
 Publications
 ======
