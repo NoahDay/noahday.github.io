@@ -8,5 +8,5 @@ date: 2022-05-12
 location: "Online"
 ---
 
-[Download slides here](http://noahday.github.io/files/cosimaTalk2022.key)
+[Download slides here](http://noahday.github.io/files/cosimaTalk2022.pdf)
 
