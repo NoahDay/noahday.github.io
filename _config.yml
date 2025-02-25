@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Noah Day"
-  avatar           : "profile.png"
-  bio              : "PhD candidate at the University of Adelaide"
+  avatar           : "profile.jpeg"
+  bio              : "PhD candidate"
   location         : "Adelaide, Australia"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Adelaide"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com.au/citations?user=jL8fkxUAAAAJ&hl=en"
   email            : "noah.day@adelaide.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Noah-Day"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoahDay"
+  github           : "https://github.com/NoahDay"
   google_plus      :
   keybase          :
   instagram        :
