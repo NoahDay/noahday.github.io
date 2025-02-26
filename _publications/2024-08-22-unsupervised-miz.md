@@ -2,7 +2,7 @@
 title: "Analysis of the Antarctic Marginal Ice Zone Based on Unsupervised Classification of Standalone Sea Ice Model Data"
 collection: publications
 permalink: https://doi.org/10.1029/2024JC020953
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024-08-22
 venue: 'Journal of Geophysical Research: Oceans'
 paperurl: 'https://doi.org/10.1029/2024JC020953'
