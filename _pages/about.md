@@ -11,6 +11,15 @@ redirect_from:
 I am a PhD candidate studying the influence of ocean surface waves on the evolution of Antarctic sea ice. My research combines numerical modeling and statistical analysis to improve our understanding of wave–ice interactions and their impact on polar climate systems.
 
 
+# The Work I Do
+
+### Figure from Unsupervised MIZ
+
+### Figure from Cyclone
+
+### Figure from Amp drop
+
+
 # Publications
 
 {% if author.googlescholar %}
