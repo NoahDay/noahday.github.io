@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[See my CV as of May 2025 here](cv-2024.pdf)
+[See my CV as of June 2024 here](cv-2024.pdf)
 
 
 
