@@ -17,7 +17,7 @@ Dr. Noah Day is a post-doctoral resesarh fellow at the University of Melbourne. 
 
 <!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
 
-<img src="https://noahday.github.io/images/figures/DayMIZ2024-Figure4.png" alt="" width="600">
+<img src="https://noahday.github.io/images/figures/DayMIZ2024-Figure4.pdf" alt="" width="600">
 
 ### Cyclone impacts on the Antarctic marginal ice zone
 
