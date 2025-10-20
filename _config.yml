@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Noah Day"
 title_separator          : "-"
-name                     : &name "Noah Day"
-description              : &description "PhD candidate at the University of Adelaide"
+name                     : &name "Dr Noah Day"
+description              : &description "Research Fellow at the University of Melbourne"
 url                      : https://noahday.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NoahDay/noahday.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah Day"
+  name             : "Dr Noah Day"
   avatar           : "profile.jpeg"
-  bio              : "PhD candidate"
-  location         : "Adelaide, Australia"
-  employer         : "University of Adelaide"
+  bio              : "Research Fellow"
+  location         : "Melbourne, Australia"
+  employer         : "University of Melbourne"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com.au/citations?user=jL8fkxUAAAAJ&hl=en"
-  email            : "noah.day@adelaide.edu.au"
+  email            : "noah.day@unimelb.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Noah-Day"
   uri              :
   bitbucket        :
