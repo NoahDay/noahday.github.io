@@ -15,12 +15,21 @@ Dr. Noah Day is a post-doctoral resesarh fellow at the University of Melbourne. 
 
 ### Figure from Unsupervised MIZ
 
-![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png){: style="width:600px;" }
+![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png)
+
+<img src="https://noahday.github.io/images/figures/DayMIZ2024-Figure4.png" alt="" width="600">
 
 ### Figure from Cyclone
 
+<!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
+
+<img src="https://noahday.github.io/images/figures/DayCyclone2025-201626905_wave_case_study.pdf" alt="" width="600">
+
 ### Figure from Amp drop
 
+<!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
+
+<img src="https://noahday.github.io/images/figures/DayAmpDrop2025-illustrative.png" alt="" width="600">
 
 # Publications
 
