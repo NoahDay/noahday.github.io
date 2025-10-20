@@ -13,19 +13,19 @@ Dr. Noah Day is a post-doctoral resesarh fellow at the University of Melbourne. 
 
 # The Work I Do
 
-### Figure from Unsupervised MIZ
+### Classifying the Antarctic marginal ice zone
 
-![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png)
+<!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
 
 <img src="https://noahday.github.io/images/figures/DayMIZ2024-Figure4.png" alt="" width="600">
 
-### Figure from Cyclone
+### Cyclone impacts on the Antarctic marginal ice zone
 
 <!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
 
 <img src="https://noahday.github.io/images/figures/DayCyclone2025-201626905_wave_case_study.pdf" alt="" width="600">
 
-### Figure from Amp drop
+### Wave attenuation from consolidated to fully broken sea ice convers 
 
 <!-- ![Unsupervised MIZ](http://noahday.github.io/images/figures/DayMIZ2024-Figure4.png) -->
 
