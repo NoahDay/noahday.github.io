@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Noah Day is a post-doctoral resesarh fellow at the University of Melbourne. He completed his PhD at the University of Adelaide under the supervision of Dr. Luke Bennetts and Dr. Siobhan O’Farrell (CSIRO). Noah’s research explores how ocean waves interact with Antarctic sea ice, and how these processes influence the extent and behaviour of the ice, from short-term weather events to longer-term climate patterns.
+Dr. Noah Day is a post-doctoral research fellow at the University of Melbourne. He completed his PhD at the University of Adelaide under the supervision of Dr. Luke Bennetts and Dr. Siobhan O’Farrell (CSIRO). Noah’s research explores how ocean waves interact with Antarctic sea ice, and how these processes influence the extent and behaviour of the ice, from short-term weather events to longer-term climate patterns.
 
 
 # The Work I Do
