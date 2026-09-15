@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[Download my CV (June 2025)](http://noahday.github.io/files/cvs/cv-2025june.pdf)
+[Download my CV (August 2026)](/files/cvs/CV-2026Aug.pdf)
